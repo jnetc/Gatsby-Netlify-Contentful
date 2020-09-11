@@ -1,11 +1,20 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e0465c54-b13c-44e4-9d8a-28c21807ea27/deploy-status)](https://app.netlify.com/sites/silly-beaver-1a4a77/deploys)
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+    <img alt="Gatsby" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18411663001536298193-512.png" width="60" />
+  </a>
+  <a href="https://app.netlify.com/">
+    <img alt="Netlify" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/11987465721551941710-512.png" width="60" />
+  </a>
+  <a href="https://contentful.com/">
+    <img alt="Countentful" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18395234441536208099-512.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby
 </h1>
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
